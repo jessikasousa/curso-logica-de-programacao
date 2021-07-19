@@ -5,9 +5,7 @@
 Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos. 
 
 - **Soma Vetor (exemploSomaVetor):**
-Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida:
-* Imprimir todos os elementos do vetor
-* Mostrar na tela a soma e a média dos elementos do vetor 
+Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida: Imprimir todos os elementos do vetor e Mostrar na tela a soma e a média dos elementos do vetor 
 
 - **Alturas (exemploAlturas):**
 Fazer um programa para ler nome, idade e altura de N pessoas, conforme exemplo. Depois, mostrar na tela a altura média das pessoas, e mostrar também a porcentagem de pessoas com menos de 16 anos, bem como os nomes dessas pessoas caso houver. 
@@ -37,8 +35,4 @@ Fazer um programa para ler um conjunto de N nomes de alunos, bem como as notas q
 Tem-se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Fazer um programa que calcule e escreva a maior e a menor altura do grupo, a média de altura das mulheres, e o número de homens. 
 
 - **Comerciante (exemploComerciante):**
-Um comerciante deseja fazer o levantamento do lucro das mercadorias que ele comercializa. Para isto, mandou digitar um conjunto de N mercadorias, cada uma contendo nome, preço de compra e preço de venda das mesmas. Fazer um programa que leia tais dados e determine e escreva quantas mercadorias proporcionaram:
-* lucro < 10%
-* 10% ≤ lucro ≤ 20%
-* lucro > 20%
-Determine e escreva também o valor total de compra e de venda de todas as mercadorias, assim como o lucro total. 
+Um comerciante deseja fazer o levantamento do lucro das mercadorias que ele comercializa. Para isto, mandou digitar um conjunto de N mercadorias, cada uma contendo nome, preço de compra e preço de venda das mesmas. Fazer um programa que leia tais dados e determine e escreva quantas mercadorias proporcionaram: lucro < 10%; 10% ≤ lucro ≤ 20% e lucro > 20%. Determine e escreva também o valor total de compra e de venda de todas as mercadorias, assim como o lucro total. 
